@@ -1,4 +1,4 @@
-![In-Eternity Logo](/InEternityProjectLogo.png)
+![Picture](/InEternityProjectLogo.png)
 
 # In-Eternity 
 
